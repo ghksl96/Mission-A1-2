@@ -35,7 +35,7 @@
 ## ⚙️ 실행 방법
 
 ### 1. 코드 내려받기
-git clone https://github.com/ghksl96/travel-recommender.git
+git clone https://github.com/ghksl96/ghksl96/Mission-A1-2.git
 cd travel-recommender
 
 ### 2. 라이브러리 설치
