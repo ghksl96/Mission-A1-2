@@ -135,6 +135,9 @@ def search_restaurants(city: str) -> list[dict]:
 
 > 새 제공자를 붙일 때는 **응답 → 위 표준 포맷으로 변환**하는 어댑터만 작성하면 됩니다.
 
+<img width="968" height="665" alt="image" src="https://github.com/user-attachments/assets/d3eebc77-cc70-49e1-922a-0063bdcb4eee" />
+
+
 ---
 
 ## 🌐 REST API 개념 (GET vs POST)
